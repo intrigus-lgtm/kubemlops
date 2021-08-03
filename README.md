@@ -23,7 +23,7 @@ The architecture of the sample is shown in the following diagram:
 For this sample, DataOps for ML and Observability are currently out of scope.
 
 ## Prerequisites
-
+s
 Before you get started, make sure you have the following prerequisites:
 
 - An Azure Kubernetes Service cluster
